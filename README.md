@@ -28,6 +28,8 @@ Objectives:
 
 Exercises (Week 7)
 
+1. Error Detection & Correction
+
 a. Single-Bit Parity Check
 Objective: Implement a single-bit parity check for 8-bit data.
 What I Learned: Single-bit parity checks are effective for detecting single-bit errors but cannot correct errors or detect multiple-bit errors.
