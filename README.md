@@ -5,11 +5,17 @@ E-Portfolio for Networks &amp; Operating Systems. Contains weekly lab exercises,
 Table of Contents
 
 Week 1: No LAB
+
 Week 2: Networks Fundamentals
+
 Week 3: Application Layer in Networks
+
 Week 4: Transport Layer in Networks Part 1
+
 Week 5: Transport Layer Part 2
+
 Week 6: Internet Layer
+
 Week 7: Network Access Layer
 
 
