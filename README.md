@@ -17,8 +17,10 @@ Week 5: Transport Layer Part 2
 Week 6: Internet Layer
 
 Week 7: Network Access Layer
+
 --------------------------------------------------------------
 Week 6: Internet Layer
+
 Objectives
 - Understand IP addressing, including classful and classless addressing (CIDR).
 - Simulate DHCP operations using Python.
@@ -47,8 +49,8 @@ Objective: Simulate the DHCP DORA process (Discover, Offer, Request, Acknowledge
 What I Learned: DHCP automates IP address assignment and network configuration for devices on a network.
 
 -----------------------------------------------------------------------------------------------------
-
 Week 7: Network Access Layer
+
 Objectives:
 - Understand and implement error detection and correction techniques.
 - Simulate network behaviors and analyze performance metrics.
