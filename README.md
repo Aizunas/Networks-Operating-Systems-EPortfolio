@@ -17,9 +17,36 @@ Week 5: Transport Layer Part 2
 Week 6: Internet Layer
 
 Week 7: Network Access Layer
+--------------------------------------------------------------
+Week 6: Internet Layer
+Objectives
+- Understand IP addressing, including classful and classless addressing (CIDR).
+- Simulate DHCP operations using Python.
+- Analyze and manipulate IP addresses programmatically.
 
+Exercises (Week 6)
 
+1. Working with IP Addresses
+   
+a. Classful Addressing
+Objective: Understand and implement classful IP addressing.
+What I Learned: IPv4 addresses are divided into classes (A, B, C, D, E) based on the first octet, which determines the network and host portions.
 
+b. Classless Inter-Domain Routing (CIDR)
+Objective: Implement CIDR-based IP addressing.
+What I Learned: CIDR allows flexible allocation of IP addresses using a network prefix and subnet mask, improving efficiency and scalability.
+
+c. IP Address Analysis
+Objective: Analyze IP addresses to determine network details, broadcast addresses, and usable host ranges.
+What I Learned: Using Python's ipaddress module, I can programmatically analyze IP addresses and subnetting.
+
+2. Dynamic Host Configuration Protocol (DHCP)
+   
+a. DHCP Operation (DORA Process)
+Objective: Simulate the DHCP DORA process (Discover, Offer, Request, Acknowledge).
+What I Learned: DHCP automates IP address assignment and network configuration for devices on a network.
+
+-----------------------------------------------------------------------------------------------------
 
 Week 7: Network Access Layer
 Objectives:
