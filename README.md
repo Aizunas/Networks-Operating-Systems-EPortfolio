@@ -18,7 +18,16 @@ Week 6: Internet Layer
 
 Week 7: Network Access Layer
 
+--------------------------------------------------------------
 
+
+Week 3: Application Layer in Networks
+
+Week 3 focused on the application layer, including HTTP requests, IP address resolution, and network tracing.
+
+I learned how to use the socket library for low-level network communication and the requests library for simplified HTTP requests.
+
+The exercises helped me understand practical applications of the application layer, such as fetching web pages and sending data to servers.
 
 --------------------------------------------------------------
 
