@@ -1,5 +1,5 @@
 # Networks-Operating-Systems-Portfolio
-E-Portfolio for Networks &amp; Operating Systems. Contains weekly lab exercises, code snippetsband learning reflections.
+E-Portfolio for Networks &amp; Operating Systems. This E-portfolio contains weekly lab exercises, code snippets and learning reflections.
 
 
 Table of Contents
@@ -18,8 +18,17 @@ Week 6: Internet Layer
 
 Week 7: Network Access Layer
 
---------------------------------------------------------------
 
+--------------------------------------------------------------
+Week 2: Networks Fundamentals
+
+Week 2 focused on Python basics, including data types, conditions, loops, functions, and simple games.
+
+I learned how to write Python scripts for arithmetic operations, data manipulation, and control flow.
+
+The exercises helped me understand practical applications of Python, such as password checking and encryption.
+
+--------------------------------------------------------------
 
 Week 3: Application Layer in Networks
 
