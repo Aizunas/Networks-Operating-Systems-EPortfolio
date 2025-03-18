@@ -18,6 +18,28 @@ Week 6: Internet Layer
 
 Week 7: Network Access Layer
 
+
+
+--------------------------------------------------------------
+
+Week 4: Transport Layer in Networks Part 1
+
+Week 4 focused on UDP communication, API integration, and basic encryption.
+
+I learned how to build UDP servers and clients, handle authentication, and encrypt messages.
+
+The exercises helped me understand the practical applications of UDP and API data fetching.
+
+--------------------------------------------------------------
+
+Week 5: Transport Layer Part 2
+
+Week 5 focused on TCP communication, file transfer, and handling multiple clients.
+
+I learned how to build TCP servers and clients, measure transmission times, and implement a chat system.
+
+The exercises helped me understand practical applications of TCP, such as file transfer and secure messaging.
+
 --------------------------------------------------------------
 Week 6: Internet Layer
 
