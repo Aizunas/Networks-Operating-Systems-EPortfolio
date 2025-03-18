@@ -93,7 +93,7 @@ Key Learnings
 
 Reflection
 --------------------------------------------------------
-This course has provided me with a strong foundation in networking concepts and Python programming. I have gained hands-on experience in building network applications, simulating protocols, and analyzing network behaviors. The weekly exercises have helped me understand the practical applications of networking concepts, and I feel confident in my ability to apply these skills in real-world scenarios.
+This module has provided me with a strong foundation in networking concepts and Python programming. I have gained hands-on experience in building network applications, simulating protocols, and analyzing network behaviors. The weekly exercises have helped me understand the practical applications of networking concepts, and I feel confident in my ability to apply these skills in real-world scenarios.
 
 
 
