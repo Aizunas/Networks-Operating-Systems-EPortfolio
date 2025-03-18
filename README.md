@@ -19,7 +19,7 @@ Week 7: Network Access Layer
 
 Week 1: No LAB
 --------------------------------------------------------
-No lab exercises were conducted in Week 1.
+No lab exercises in Week 1.
 
 Week 2: Networks Fundamentals
 --------------------------------------------------------
@@ -29,7 +29,7 @@ Implement simple Python scripts for arithmetic operations, data manipulation, an
 Build small applications like a password strength checker and a Caesar cipher.
 
 Key Learnings
-- Python Basics: I learned how to write Python scripts for arithmetic operations, data manipulation, and control flow.
+- Python Basics: I practiced my skills on how to write Python scripts for arithmetic operations, data manipulation, and control flow.
 - Practical Applications: The exercises helped me understand how Python can be used for practical tasks like password checking and encryption.
 
 Week 3: Application Layer in Networks
@@ -42,7 +42,6 @@ Fetch data from APIs and analyze network routes using traceroute.
 Key Learnings
 - HTTP Requests: I learned how to use the socket library for low-level network communication and the requests library for simplified HTTP requests.
 - Network Tracing: I gained practical experience in fetching web pages, sending data to servers, and analyzing network routes.
-
 
 
 Week 4: Transport Layer in Networks Part 1
@@ -93,7 +92,7 @@ Key Learnings
 
 Reflection
 --------------------------------------------------------
-This module has provided me with a strong foundation in networking concepts and Python programming. I have gained hands-on experience in building network applications, simulating protocols, and analyzing network behaviors. The weekly exercises have helped me understand the practical applications of networking concepts, and I feel confident in my ability to apply these skills in real-world scenarios.
+This module has given me a solid foundation in networking principles and Python programming. I've gained hands-on experience developing network applications, simulating protocols, and analysing network behaviour. The weekly activities have helped me comprehend the practical applications of networking ideas, and I am certain that I can apply these abilities, if they were to appear in real-world scenarios.
 
 
 
