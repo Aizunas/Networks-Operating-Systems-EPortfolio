@@ -17,9 +17,11 @@ Week 6: Internet Layer
 Week 7: Network Access Layer
 
 Week 1: No LAB
+--------------------------------------------------------
 No lab exercises were conducted in Week 1.
 
 Week 2: Networks Fundamentals
+--------------------------------------------------------
 Objectives
 Learn Python basics, including data types, conditions, loops, and functions.
 
@@ -50,6 +52,7 @@ Caesar Cipher: Implemented a Caesar cipher for encrypting and decrypting message
 Hangman Game: Developed a simple Hangman game using Python.
 
 Week 3: Application Layer in Networks
+--------------------------------------------------------
 Objectives
 Understand the application layer and its role in network communication.
 
@@ -74,6 +77,7 @@ API Integration: Fetched weather data from an API and sent it over UDP.
 HTTP Request Types: Implemented GET, POST, PUT, and DELETE requests using the requests library.
 
 Week 4: Transport Layer in Networks Part 1
+--------------------------------------------------------
 Objectives
 Explore UDP communication and its use cases.
 
@@ -98,6 +102,7 @@ API Data Collection: Fetched weather data from an API and sent it to the server.
 Encryption: Implemented basic encryption for secure messaging.
 
 Week 5: Transport Layer Part 2
+--------------------------------------------------------
 Objectives
 Understand TCP communication and its reliability features.
 
@@ -122,6 +127,7 @@ Chat System: Developed a TCP-based chat system with multiple clients.
 Encryption: Added encryption for secure messaging.
 
 Week 6: Internet Layer
+--------------------------------------------------------
 Objectives
 Understand IP addressing, including classful and classless addressing (CIDR).
 
@@ -144,6 +150,7 @@ IP Address Analysis: Programmatically analyzed IP addresses to determine network
 DHCP Simulation: Simulated the DHCP DORA process using Python.
 
 Week 7: Network Access Layer
+--------------------------------------------------------
 Objectives
 Understand and implement error detection and correction techniques.
 
@@ -163,17 +170,10 @@ Checksum: Implemented a checksum using one's complement for error detection.
 
 Multiple Access Protocols: Simulated the performance of Pure ALOHA, Slotted ALOHA, and CSMA/CD.
 
+--------------------------------------------------------
 Reflection
 This course has provided me with a strong foundation in networking concepts and Python programming. I have gained hands-on experience in building network applications, simulating protocols, and analyzing network behaviors. The weekly exercises have helped me understand the practical applications of networking concepts, and I feel confident in my ability to apply these skills in real-world scenarios.
 
-Future Goals
-Explore Advanced Topics: I plan to delve deeper into advanced networking topics like network security, routing algorithms, and cloud networking.
-
-Build Real-World Applications: I aim to build more complex network applications, such as a secure file transfer system or a distributed chat application.
-
-Contribute to Open Source: I would like to contribute to open-source networking projects to further enhance my skills and knowledge.
-
-This E-portfolio is a testament to my journey in learning Networks & Operating Systems. I look forward to applying these skills in my future projects and career.
 
 
 
