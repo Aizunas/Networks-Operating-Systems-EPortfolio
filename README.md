@@ -23,7 +23,7 @@ No lab exercises in Week 1.
 
 Week 2: Networks Fundamentals
 --------------------------------------------------------
-Objectives
+Objectives -
 Learn Python basics, including data types, conditions, loops, and functions.
 Implement simple Python scripts for arithmetic operations, data manipulation, and control flow.
 Build small applications like a password strength checker and a Caesar cipher.
@@ -34,7 +34,7 @@ Key Learnings
 
 Week 3: Application Layer in Networks
 --------------------------------------------------------
-Objectives
+Objectives -
 Understand the application layer and its role in network communication.
 Implement HTTP clients and servers using Python's socket and requests libraries.
 Fetch data from APIs and analyze network routes using traceroute.
@@ -46,7 +46,7 @@ Key Learnings
 
 Week 4: Transport Layer in Networks Part 1
 --------------------------------------------------------
-Objectives
+Objectives -
 Explore UDP communication and its use cases.
 Build UDP client-server applications.
 Integrate APIs with UDP communication and implement basic encryption.
@@ -58,7 +58,7 @@ Key Learnings
 
 Week 5: Transport Layer Part 2
 --------------------------------------------------------
-Objectives
+Objectives -
 Understand TCP communication and its reliability features.
 Build TCP client-server applications, including file transfer and chat systems.
 Handle multiple clients concurrently using threading.
@@ -70,7 +70,7 @@ Key Learnings
 
 Week 6: Internet Layer
 --------------------------------------------------------
-Objectives
+Objectives -
 Understand IP addressing, including classful and classless addressing (CIDR).
 Simulate DHCP operations using Python.
 Analyze and manipulate IP addresses programmatically.
@@ -82,7 +82,7 @@ Key Learnings
 
 Week 7: Network Access Layer
 --------------------------------------------------------
-Objectives
+Objectives -
 Understand and implement error detection and correction techniques.
 Simulate network behaviors and analyze performance metrics.
 
