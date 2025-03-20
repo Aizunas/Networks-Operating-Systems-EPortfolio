@@ -1,5 +1,5 @@
 # Networks-Operating-Systems-EPortfolio
-This E-portfolio documents my weekly lab exercises, code snippets, and learning reflections for the Networks & Operating Systems module. Each week focuses on different networking concepts, Python implementations, and practical applications.
+This E-portfolio documents my weekly lab exercises, code snippets, and learning reflections for the Networks & Operating Systems module. Each week focuses on different networking concepts and python implementations.
 
 Table of Contents
 --------------------------------------------------------
