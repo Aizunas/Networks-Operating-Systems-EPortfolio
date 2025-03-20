@@ -43,6 +43,9 @@ Key Learnings
 - HTTP Requests: I learned how to use the socket library for low-level network communication and the requests library for simplified HTTP requests.
 - Network Tracing: I gained practical experience in fetching web pages, sending data to servers, and analyzing network routes.
 
+Challenge: Setting up a basic HTTP client using sockets and handling connection errors.
+Solution: Used try-except blocks to catch exceptions like connection timeouts and verified the server address and port were correct.
+
 
 Week 4: Transport Layer in Networks Part 1
 --------------------------------------------------------
@@ -52,8 +55,9 @@ Build UDP client-server applications.
 Integrate APIs with UDP communication and implement basic encryption.
 
 Key Learnings
-- UDP Communication: I learned how to build UDP servers and clients, handle authentication, and encrypt messages.
-- API Integration: I gained experience in fetching data from APIs and transmitting it over UDP.
+- UDP Communication: building UDP servers and clients, handle authentication, and encrypt messages.
+- API Integration: fetching data from APIs and transmitting it over UDP.
+
 
 Week 5: Transport Layer Part 2
 --------------------------------------------------------
@@ -63,7 +67,7 @@ Build TCP client-server applications, including file transfer and chat systems.
 Handle multiple clients concurrently using threading.
 
 Key Learnings
-- TCP Communication: I learned how to build TCP servers and clients, measure transmission times, and implement a chat system.
+- TCP Communication: building TCP servers and clients, measure transmission times, and implement a chat system.
 - File Transfer: I gained experience in transferring files over TCP and handling multiple clients using threading.
 
 
@@ -75,8 +79,8 @@ Simulate DHCP operations using Python.
 Analyze and manipulate IP addresses programmatically.
 
 Key Learnings
-- IP Addressing: I learned about classful and classless addressing (CIDR) and how to analyze IP addresses programmatically.
-- DHCP: I gained experience in simulating the DHCP DORA process (Discover, Offer, Request, Acknowledge).
+- IP Addressing: I learnt about classful and classless addressing (CIDR) and how to analyze IP addresses programmatically.
+- DHCP: developed skills in simulating the DHCP DORA process.
 
 
 Week 7: Network Access Layer
@@ -87,12 +91,12 @@ Simulate network behaviors and analyze performance metrics.
 
 Key Learnings
 - Error Detection: I learned how to implement single-bit parity checks, 2D parity checks, and checksums using one's complement.
-- Multiple Access Protocols: I gained experience in modeling and comparing the performance of Pure ALOHA, Slotted ALOHA, and CSMA/CD.
+- Multiple Access Protocols: modeling and comparing the performance of Pure ALOHA, Slotted ALOHA, and CSMA/CD.
 
 
 Reflection
 --------------------------------------------------------
-This module has given me a solid foundation in networking principles and Python programming. I've gained hands-on experience developing network applications, simulating protocols, and analysing network behaviour. The weekly activities have helped me comprehend the practical applications of networking ideas, and I am certain that I can apply these abilities, if they were to appear in real-world scenarios.
+This module has given me a solid foundation in networking principles and Python programming. I've learned hands-on experience on developing network applications, simulating protocols, and analysing network behaviour. The weekly activities have helped me comprehend the practical applications of networking ideas, and I am certain that I can apply these abilities, if they were to appear in real-world scenarios.
 
 
 
