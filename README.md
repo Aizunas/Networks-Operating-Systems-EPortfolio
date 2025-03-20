@@ -43,9 +43,6 @@ Key Learnings
 - HTTP Requests: I learned how to use the socket library for low-level network communication and the requests library for simplified HTTP requests.
 - Network Tracing: I gained practical experience in fetching web pages, sending data to servers, and analyzing network routes.
 
-Challenge: Setting up a basic HTTP client using sockets and handling connection errors.
-Solution: Used try-except blocks to catch exceptions like connection timeouts and verified the server address and port were correct.
-
 
 Week 4: Transport Layer in Networks Part 1
 --------------------------------------------------------
